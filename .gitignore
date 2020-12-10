@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+cache_dir
+model
+data/__MACOSX
+runs/
+.idea
+.ignore
