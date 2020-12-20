@@ -5,3 +5,4 @@ data/__MACOSX
 runs/
 .idea
 .ignore
+model_artifacts/bert/
